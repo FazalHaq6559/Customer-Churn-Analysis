@@ -23,11 +23,17 @@ The analysis is based on structured customer-level records supported by aggregat
 - The overall churn rate is approximately **27%**, indicating that more than one quarter of customers discontinued service.
 - **1,766 customers** were identified as churned within the observed period.
 - The most frequently reported churn drivers were related to **competitor advantages**, particularly better devices and more attractive offers.
+
 ![Churn reason](images/churn-reason.PNG)
+
 - Customers aged **79–88**, although a small segment of the customer base, exhibited the **highest churn rates**.
-![Age Group analysis](images/age-group.PNG)
+  
+  ![Age Group analysis](images/age-group.PNG)
+
 - Customers with **low data consumption** showed churn likelihood close to **35%**, suggesting lower engagement or perceived value.
-![Data Consumtion](images/data-consumtion.PNG)
+
+  ![Data Consumtion](images/data-consumtion.PNG)
+
 - Customers with **3–4 years of tenure** on **one-year contracts** were more likely to churn compared to those on longer-term agreements.
 - International calling behavior showed varied loyalty patterns across different customer groups, indicating that plan relevance plays an important role in retention.
 
